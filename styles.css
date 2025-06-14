@@ -1,0 +1,23 @@
+body {
+    background-color: #fefbd8;
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+.video-container {
+    margin: 25px auto;
+}
+
+.animated-box {
+    width: 230px;
+    height: 48px;
+    margin: 28px auto;
+    background-color: #f08080;
+    line-height: 48px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+    position: relative;
+}
